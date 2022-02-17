@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0497d89ff065b4459c23f7f430795ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starCount: 5000
+  starCount: 2000
   starOriginal: {fileID: 624888570565885640, guid: 5856221e0ad98e7448701687b809c561, type: 3}
   spawnRadius: 50000
   spawnHeight: 0
